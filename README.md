@@ -1,9 +1,10 @@
-# Recast-With-Watson-POC
+# Recast-With-Watson-POC-TAD
 
 ## Context
+
 * Accenture AI4Clients Hackathon
 * First use of WATSON and RECAST together
-# Language C#
+* Language C#
 
 ## Objectives
 
