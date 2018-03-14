@@ -1,0 +1,48 @@
+﻿.widgets
+{
+    text-align: center;
+    font-size: 14px!important;
+    width:1500px;
+    margin-left:100px;
+    padding-bottom:20px;
+    
+}
+
+.vinciwidget
+{
+    width: 320px;
+    text-align:center;
+    margin:5px;
+    display:inline-block;
+    
+}
+
+.blueWidget
+{
+    background-color: dodgerblue!important;
+    color: white;
+}
+
+.greenWidget
+{
+    background-color: limegreen!important;
+    color: white;
+}
+
+.greyWidget
+{
+    background-color: lightgrey!important;
+    color: white;
+}
+
+.darkGreyWidget
+{
+    background-color: darkgrey!important;
+    color: white;
+}
+
+.redWidget
+{
+    background-color: rgb(240, 79, 79);
+    color: white;
+}

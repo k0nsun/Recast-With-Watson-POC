@@ -1,0 +1,28 @@
+﻿.fond1{
+  background-color: #F5F3EA;
+}
+
+.fond2{
+  background-color: #FCFBF9;
+}
+
+.fond3{
+  background-color: #eae7d8;
+}
+
+.k-tabstrip-items{
+    background-color: #9ca8ea;
+}
+
+ .k-tabstrip-items .k-item
+{
+    background-color: #626fb9;
+}
+
+ .k-tabstrip-items .k-state-active {
+    background-color: #3a4cb0;
+}
+
+ .k-dropdown .k-state-default, .k-input{
+     background-color: #F5F3EA;
+ }
