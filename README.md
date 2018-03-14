@@ -3,6 +3,7 @@
 ## Context
 * Accenture AI4Clients Hackathon
 * First use of WATSON and RECAST together
+# Language C#
 
 ## Objectives
 
